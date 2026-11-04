@@ -15,4 +15,14 @@ Per quanto riguarda il Backflush, ho selezionato il valore 2 (Work Center Decide
 
 Il Backflush è stato impostato sul valore 2 (Work Center Decides), delegando al centro di lavoro la decisione sull'attivazione del prelievo automatico dei componenti dal magazzino al momento della conferma delle operazioni produttive, evitando così la registrazione manuale dei singoli movimenti di uscita.
 
+<img width="1918" height="1078" alt="ZL_H001 HALB Corpo in tessuto imbottito" src="https://github.com/user-attachments/assets/eca84994-4d69-44f5-81af-e2a6d245123d" />
+
+Successivamente, si è proceduto alla creazione del secondo semilavorato ZL_H002 – Corpo in tessuto imbottito, classificato come HALB (Semifinished Product), destinato alla realizzazione del corpo della bambola LUNA.
+
+Nella vista MRP 3, non è stato assegnato alcuno Strategy Group, poiché il semilavorato non viene pianificato autonomamente sulla base di previsioni di vendita o ordini cliente, ma il suo fabbisogno deriva direttamente dalla pianificazione del prodotto finito ZF001 (FERT).
+
+Attraverso l'esplosione della distinta base (BOM), SAP S/4HANA determina automaticamente le quantità necessarie del semilavorato in funzione dei fabbisogni produttivi della bambola LUNA.
+
+Questa configurazione consente di mantenere la strategia di pianificazione a livello del prodotto finito, evitando l'introduzione di strategie indipendenti non necessarie per i componenti intermedi.
+
 
