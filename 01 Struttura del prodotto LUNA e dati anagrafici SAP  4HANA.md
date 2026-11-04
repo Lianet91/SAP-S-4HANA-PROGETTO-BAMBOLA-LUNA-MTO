@@ -1,6 +1,8 @@
 DESCRIZIONE DEL PRODOTTO
 La bambola LUNA presenta testa, braccia e gambe in silicone; corpo in tessuto di cotone imbottito con lana naturale; occhi realistici in resina epossidica trasparente; capelli naturali lavati, lisciati, trattati con cera e fissati alla testa. Gli arti sono fissati al corpo senza giunti articolati meccanici. Vestito e scatola sono acquistati.
 
+<img width="1536" height="1024" alt="Infografica BOM della bambola LUNA" src="https://github.com/user-attachments/assets/71e3a776-c990-40cc-b60b-21b27ac76fc0" />
+
 1. ANAGRAFICA MATERIALI — MM01
 
 PRODOTTO FINITO (FERT)
