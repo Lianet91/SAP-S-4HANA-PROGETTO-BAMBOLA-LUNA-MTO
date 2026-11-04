@@ -1,3 +1,9 @@
+## Progetto LUNA
+
+**Moduli:** PP / MM / SD  
+**Strategia produttiva:** Make-to-Order (MTO) – Strategia 20  
+**Elementi distintivi:** Variant Configuration e Production Versions
+
 DESCRIZIONE DEL PRODOTTO
 La bambola LUNA è comoposta da testa, braccia e gambe in silicone; corpo in tessuto di cotone imbottito con lana naturale; occhi realistici in resina epossidica trasparente; capelli naturali lavati, lisciati, trattati con cera e fissati alla testa. Gli arti sono fissati al corpo senza giunti articolati meccanici. Vestito e scatola sono acquistati.
 
